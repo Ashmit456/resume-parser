@@ -1,0 +1,209 @@
+{
+  "$schema": "http://json-schema.org/draft-07/schema#",
+  "title": "Resume Data Schema",
+  "type": "object",
+  "properties": {
+    "name": { "type": ["string", "null"], "description": "Full name of the candidate" },
+    "email": { "type": ["string", "null"], "format": "email", "description": "Email address" },
+    "mobile": { "type": ["string", "null"], "description": "Mobile phone number" },
+    "dob": { "type": ["string", "null"], "format": "date", "description": "Date of birth" },
+    "address": { "type": ["string", "null"], "description": "Street address or mailing address" },
+    "city": {
+      "type": ["object", "null"],
+      "description": "City information",
+      "properties": {
+        "name": { "type": ["string", "null"] },
+        "shortname": { "type": ["string", "null"] },
+        "state": { "type": ["string", "null"] },
+        "placeid": { "type": ["string", "null"] },
+        "location": {
+          "type": ["object", "null"],
+          "properties": {
+            "x": { "type": ["number", "null"] },
+            "y": { "type": ["number", "null"] },
+            "coordinates": {
+              "type": ["array", "null"],
+              "items": { "type": ["number", "null"] },
+              "minItems": 2,
+              "maxItems": 2
+            },
+            "type": { "type": ["string", "null"] }
+          },
+          "required": ["x", "y", "coordinates", "type"]
+        }
+      },
+      "required": ["name", "placeid", "location"]
+    },
+    "linkedin": { "type": ["string", "null"], "format": "uri", "description": "LinkedIn profile URL" },
+    "twitter": { "type": ["string", "null"], "format": "uri", "description": "Twitter profile URL" },
+    "instagram": { "type": ["string", "null"], "format": "uri", "description": "Instagram profile URL" },
+    "facebook": { "type": ["string", "null"], "format": "uri", "description": "Facebook profile URL" },
+    "about": { "type": ["string", "null"], "description": "Summary or objective section" },
+    "experienceLevel": {
+      "type": ["string", "null"],
+      "enum": ["student", "fresher", "experienced"],
+      "description": "Experience level of the candidate"
+    },
+    "jobexp": {
+      "type": ["number", "null"],
+      "description": "Total job experience in years"
+    },
+    "education": {
+      "type": ["array", "null"],
+      "description": "List of college education entries, most recent first",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "college": { "type": ["string", "null"] },
+          "degree": { "type": ["string", "integer", "null"] },
+          "from": { "type": ["string", "null"], "format": "date" },
+          "to": { "type": ["string", "null"], "format": "date" },
+          "scoreType": {
+            "type": ["integer", "null"],
+            "enum": [1, 2],
+            "default": 1,
+            "description": "1 = percentage or none, 2 = CGPA"
+          },
+          "pct": { "type": ["number", "null"], "description": "Percentage score" },
+          "cgpa": { "type": ["number", "null"], "description": "CGPA score" },
+          "city": {
+            "type": ["object", "null"],
+            "description": "City information",
+            "properties": {
+              "name": { "type": ["string", "null"] },
+              "shortname": { "type": ["string", "null"] },
+              "state": { "type": ["string", "null"] },
+              "placeid": { "type": ["string", "null"] },
+              "location": {
+                "type": ["object", "null"],
+                "properties": {
+                  "x": { "type": ["number", "null"] },
+                  "y": { "type": ["number", "null"] },
+                  "coordinates": {
+                    "type": ["array", "null"],
+                    "items": { "type": ["number", "null"] },
+                    "minItems": 2,
+                    "maxItems": 2
+                  },
+                  "type": { "type": ["string", "null"] }
+                },
+                "required": ["x", "y", "coordinates", "type"]
+              }
+            },
+            "required": ["name", "placeid", "location"]
+          }
+        },
+        "required": ["college", "degree", "from", "to"]
+      }
+    },
+    "schooling": {
+      "type": ["array", "null"],
+      "description": "List of school education entries, most recent first",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "name": { "type": ["string", "null"], "description": "Name of the school" },
+          "candidateClass": { "type": ["string", "integer", "null"], "description": "Class or grade" },
+          "board": { "type": ["string", "null"] },
+          "pct": { "type": ["number", "null"], "description": "Percentage score" },
+          "city": {
+            "type": ["object", "null"],
+            "description": "City information",
+            "properties": {
+              "name": { "type": ["string", "null"] },
+              "shortname": { "type": ["string", "null"] },
+              "state": { "type": ["string", "null"] },
+              "placeid": { "type": ["string", "null"] },
+              "location": {
+                "type": ["object", "null"],
+                "properties": {
+                  "x": { "type": ["number", "null"] },
+                  "y": { "type": ["number", "null"] },
+                  "coordinates": {
+                    "type": ["array", "null"],
+                    "items": { "type": ["number", "null"] },
+                    "minItems": 2,
+                    "maxItems": 2
+                  },
+                  "type": { "type": ["string", "null"] }
+                },
+                "required": ["x", "y", "coordinates", "type"]
+              }
+            },
+            "required": ["name", "placeid", "location"]
+          }
+        },
+        "required": ["name"]
+      }
+    },
+    "jobs": {
+      "type": ["array", "null"],
+      "description": "List of work experience entries, most recent first",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "title": { "type": ["string", "null"] },
+          "company": { "type": ["string", "null"] },
+          "from": { "type": ["string", "null"], "format": "date" },
+          "to": { "type": ["string", "null"], "format": "date" }
+        },
+        "required": ["title", "company", "from", "to"]
+      }
+    },
+    "skills": {
+      "type": ["array", "null"],
+      "description": "List of technical or professional skills",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "name": { "type": ["string", "null"] },
+          "experience": { "type": ["number", "null"], "description": "Years of experience" },
+          "lastused": { "type": ["string", "null"], "format": "date", "description": "Last used date" }
+        },
+        "required": ["name"]
+      }
+    },
+    "tools": {
+      "type": ["array", "null"],
+      "description": "List of software tools or technologies",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "name": { "type": ["string", "null"] },
+          "experience": { "type": ["number", "null"], "description": "Years of experience" },
+          "lastused": { "type": ["string", "null"], "format": "date", "description": "Last used date" }
+        },
+        "required": ["name"]
+      }
+    },
+    "certifications": {
+      "type": ["array", "null"],
+      "description": "List of certifications",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "name": { "type": ["string", "null"] }
+        },
+        "required": ["name"]
+      }
+    },
+    "projects": {
+      "type": ["array", "null"],
+      "description": "List of project descriptions",
+      "items": {
+        "type": ["object", "null"],
+        "properties": {
+          "name": { "type": ["string", "null"] },
+          "description": { "type": ["string", "null"] },
+          "link": { "type": ["string", "null"], "format": "uri" }
+        },
+        "required": ["name", "description"]
+      }
+    },
+    "achievements": { "type": ["string", "null"], "description": "HTML or text-formatted achievements section" },
+    "acadexcellence": { "type": ["string", "null"], "description": "HTML or text-formatted academic excellence section" },
+    "patents": { "type": ["string", "null"], "description": "HTML or text-formatted patents section" },
+    "hobbies": { "type": ["string", "null"], "description": "HTML or text-formatted hobbies section" }
+  },
+  "required": ["name", "email", "mobile", "experienceLevel", "education", "skills"]
+}

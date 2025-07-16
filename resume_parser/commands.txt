@@ -1,0 +1,20 @@
+# Create skills embeddings (deletes are rewrite new collection)
+python generate_embeddings.py skills path/to/skills.csv
+
+# Create colleges embeddings (deletes are rewrite new collection)
+python generate_embeddings.py colleges path/to/colleges.csv
+
+# Create companies embeddings (deletes are rewrite new collection)
+python generate_embeddings.py companies path/to/companies.csv
+
+# Create title embeddings (deletes are rewrite new collection)
+python generate_embeddings.py titles path/to/csv
+
+python generate_embeddings.py add --collection skills --json skills_to_add.json(path to json)
+
+example json:
+[
+  { "id": "9999", "text": "counter strafing" },
+  { "id": "10000", "text": "spray control" }
+]
+

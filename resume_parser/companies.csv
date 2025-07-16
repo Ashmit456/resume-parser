@@ -1,0 +1,388 @@
+Domain,Company,Company ID
+accenture.com,Accenture,1
+adobe.com,Adobe,2
+amazon.com,Amazon,3
+amazon.in,Amazon,3
+avineonindia.com,Avineon India,4
+bsil.com,Blue Star Infotech,5
+birlasoft.com,Birlasoft,6
+cdac.in,C-DAC,7
+capgemini.com,Capgemini,8
+cisco.com,Cisco Systems,9
+cloverinfotech.com,Clover Infotech,10
+cloverinfotech.com,CMS IT Services,11
+coforgetech.com,Coforge,12
+cognizant.com,Cognizant,13
+cyient.com,Cyient,14
+datamatics.com,Datamatics,15
+eclerx.com,Eclerx,16
+ericsson.com,Ericsson,17
+fb.com,FaceBook,18
+facebook.com,FaceBook,18
+firstsource.com,Firstsource,19
+flipkart.com,Flipkart,20
+freshworks.com,Freshworks,21
+fujitsu.com,Fujitsu,22
+gatewaytechnolabs.com,Gateway TechnoLabs,23
+godrejinfotech.com,Godrej Infotech,24
+google.com,Google,25
+hcl.in,HCL Technologies,26
+hdatasystems.com,HData Systems,27
+hpe.com,Hewlett Packard,28
+hexaware.com,Hexaware Technologies,29
+honeywell.com,Honeywell,30
+hyperlinkinfosystem.com,Hyperlink InfoSystem,31
+ibm.com,IBM India Private Limited,32
+idsil.com,Ids Infotech,33
+igtsolutions.com,Igt Solutions,34
+imerit.net,Imerit,35
+infosys.com,Infosys,36
+intel.com,Intel,37
+itcinfotech.com,ITC Infotech,38
+kooapp.com,Koo,39
+kpit.com,KPIT Technologies,40
+ltimindtree.com,LTIMindtree,41
+mastek.com,Mastek,42
+microland.com,Microland,43
+microsoft.com,Microsoft,44
+mistralsolutions.com,Mistral Solutions,45
+mphasis.com,Mphasis,46
+nucleussoftware.com,Nucleus Software,47
+oracle.com,Oracle,48
+oswaldlabs.com,Oswald Labs,49
+paytm.com,Paytm,50
+persistentsys.com,Persistent Systems,51
+pinelabs.com,Pine Labs,52
+polarisft.com,Polarisft,53
+quest-global.com,Quest Global,54
+ramco.com,Ramco Systems,55
+samsung.com,Samsung India Pvt Ltd,56
+sasken.com,Sasken Technologies,57
+siemens.com,Siemens Technology,58
+sonata-software.com,Sonata Software,59
+tcs.com,TATA Consultancy Services,60
+techmahindra.com,Tech Mahindra,61
+thoughtworks.com,Thoughtworks,62
+udaan.com,Udaan,63
+vvdntech.com,Vvdn Technologies,64
+wipro.com,Wipro,65
+wns.com,WNS Global Services,66
+zensar.com,Zensar Technologies,67
+vunetsystems.com,VuNet Systems,68
+arkgeniq.com,Arkgeniq,69
+djaxtech.com,Djax Technologies Pvt Ltd,70
+iccfze.com,Innovative Consumer Concepts,71
+revisewise.in,Revisewise Education Solutions,72
+greenapplestech.com,Green Apples TechSystems,73
+alignmycareer.com,Jobihood Technologies,74
+88gravity.com,Kikai Technologies Pvt. Ltd.,75
+motivelinks.com,MS Consulting Services,76
+globalfoundries.com,GlobalFoundries Inc.,77
+nagarro.com,Nagarro Inc.,78
+rediansoftware.com,Redian Software,79
+wissen.com,Wissen Technology,80
+cavisson.com,Cavisson Systems,81
+encora.com,Encora Inc.,82
+netapp.com,NetApp India,83
+temenos.com,Temenos India Pvt. Ltd.,84
+kony.com,Temenos India Pvt. Ltd.,84
+teradata.com,Teradata India Pvt. Ltd,85
+progress.com,Progress Software Corporation,86
+ariosesoftware.com,Ariose Software Pvt Ltd,87
+agicent.com,Agicent Technologies Pvt. Ltd,88
+in.bosch.com,Bosch Global Software Technologies,89
+chefkart.com,ChefKart Hospitality Pvt Ltd,90
+danalitic.com,Danalitic India Pvt. Ltd.,91
+mastercard.com,Mastercard,92
+swiggy.com,Swiggy,93
+st.com,STMicroelectronics,94
+deloitte.com,Deloitte India,95
+teamlease.com,Teamlease Digital Private Ltd,96
+clairvolex.com,Clairvolex IP Solutions Pvt. Ltd.,97
+infinitiresearch.com,Infiniti Research,98
+greetlabs.com,Greet Labs Private Limited,99
+nxtwave.tech,NxtWave Disruptive Technologies Private Limited,100
+globussoft.com,Globussoft Technologies,101
+harman.com,Harman India,102
+indusind.com,IndusInd Bank,103
+clementechs.com,Clement Technologies,104
+highradius.com,Highradius Technologies,105
+cipherdyn.com,Cipher Dynamics,106
+testwelltechnologies.com,Test Well Technologies Pvt Ltd,107
+acuvate.com,Acuvate Software Pvt Ltd,108
+infokey.in,Infokey Technology Private Limited,109
+ezinformatics.com,EZ Informatics Solutions Pvt. Ltd.,110
+suventure.in,Suventure Service Pvt. Ltd.,111
+floatteam.com,Float Care,112
+smytten.com,Surfboats Solutions Pvt Ltd,113
+pickrr.com,Pickrr Technologies,114
+skytechnosoft.in,Sky Technosoft Pvt. Ltd.,115
+brightchamps.com,Brightchamps Tech Pvt Ltd,116
+dityasoft.com,Ditya Software Services Pvt. Ltd.,117
+targetinfotech.in,Target Infotech Pvt. Ltd.,118
+xebia.com,Xebia,119
+qualitestgroup.com,Qualitest,120
+pratap.co.in,Pratap Technocrats Pvt Ltd,121
+stl.tech,Sterlite Technologies Ltd,122
+hfcl.com,Himachal Futuristic Communications Ltd.,123
+jio.com,Reliance Jio Infocomm Limited,124
+wipenex.in,Wipenex IT Private Limited,125
+ltts.com,L&T Technology Services,126
+phenompeople.com,Phenom People Pvt. Ltd.,127
+tigeranalytics.com,Tiger Analytics,128
+ikffinance.com,IKF Finance Limited,129
+emugtech.com,e-MUG Technologies Pvt. Ltd.,130
+adventglobal.com,Advent Global Solutions,131
+lagozon.com,Lagozon Edutech,132
+peopletech.com,People Tech IT Consultancy,133
+tataelxsi.com,Tata Elxsi,134
+vsigma.com,VSigma IT Labs Pvt Ltd,135
+qspiders.com,QSpiders,136
+corrohealth.com,CorroHealth,137
+csgi.com,CSG International,138
+lumen.com,Lumen Technologies,139
+l-cube.com,L Cube Innovative Solutions,140
+shiprocket.com,Shiprocket Omuni Private Limited,141
+globalsign.com,GMO GlobalSign Certificate Services,142
+campuslabs.in,Campus Labs Private Limited,143
+appliedis.com,Applied Information Sciences,144
+biocube.ai,Biocube Technologies,145
+akalinfosys.com,Akal Information Systems Ltd,146
+digispice.com,Digispice Technologies Ltd,147
+pb.com,Pitney Bowes India Pvt Ltd,148
+savista.com,Savista Global Solutions Pvt. Ltd.,149
+waterlabs.ai,Waterlabs AI,150
+ksolves.com,Ksolves India Limited,151
+pinscale.in,PINscale Technologies Limited,152
+proyuga.tech,ProYuga Advanced Technologies Ltd.,153
+omegahms.com,Omega Healthcare,154
+hanumanttechnology.com,Hanumant Technology Pvt. Ltd.,155
+testyantra.com,Test Yantra Software Solutions,156
+emechsoft.com,E-Mech Solutions Private Limited,157
+ken42.com,Ken42 Edtech Private Limited,158
+izooto.com,iZooto,159
+clinicanywhere.com,Clinic Anywhere,160
+miramedajuba.com,Miramed Ajuba Solutions Pvt Ltd,161
+accesshealthcare.com,Access Healthcare Services,162
+pinnacleinfotech.com,Pinnacle,163
+analyttica.com,Analyttica Datalab Pvt. Ltd,164
+functionup.org,FunctionUp,165
+medusind.com,Medusind,166
+exlservice.com,EXL Service,167
+walkinsoftwares.com,Walkin Software Technologies,168
+ikshealth.com,IKS Health,169
+coronishealth.com,Coronis Health,170
+advantumhealth.com,Advantum Health,171
+arysontechnologies.com,Aryson Technologies,172
+zs.com,ZS Associates,173
+adappt.com,Adappt Intelligence,174
+dcnetindia.com,Dcnet Solutions India,175
+qualtechedge.com,Qualtech Edge,176
+lambdatest.com,LambdaTest,177
+adgonline.in,ADG Online Solutions,178
+inventia.in,Inventia Technology Consultants Pvt. Ltd.,179
+systoolsgroup.com,SysTools Software Pvt Ltd,180
+fligobeamnetworks.in,Fligobeam Networks,181
+oriserve.com,Oriserve India,182
+citiustech.com,CitiusTech,183
+gurusoft.co.in,Gurusoft Technologies,184
+sagilityhealth.com,Sagility India Private Limited,185
+conqsys.com,ConQsys IT,186
+i-exceed.com,i-exceed Technology Solutions,187
+innodatatics.com,Innodatatics,188
+webchilli.com,WebChilli Consulting,189
+excelbizsolutions.com,Excel Business Solutions,190
+fidelisgroup.in,Fidelis Technology Services,191
+collabera.com,Collabera,192
+techfoursolutions.com,TechFour Technology Solutions,193
+motherson.com,Motherson Technology Services,194
+winvest-global.com,Winvest Technology Consultancy,195
+numerictech.com,Numeric Technologies Private Limited,196
+pcsglobal.in,PCS Global,197
+piserve.com,Piserve Solutions Private Limited,198
+rmsi.com,RMSI Pvt. Ltd.,199
+senselearner.com,"Senselearner Technologies Private Limited",200
+takeitsmart.in,Take It Smart Private Limited,201
+optum.com,Optum Global Solutions,202
+infogain.com,Infogain Corporation,203
+nttdata.com,NTT Data Business Solutions,204
+orange.com,Orange Business Services,205
+ansyst.in,Ansyst Consulting Services,206
+mawaimail.com,Mawai Infotech Ltd,207
+webearnsolution.com,Webearn Solution,208
+nflowtech.com,NFlow Technologies Pvt Ltd,209
+niveussolutions.com,Niveus Solutions,210
+talentpace.com,Talentpace Pvt Ltd,211
+infutive.com,InFutive Technology Pvt Ltd,212
+feynnlabs.com,FeyNN Labs,213
+quesscorp.com,Quess Corp Limited,214
+softproindia.in,Softpro India,215
+soptle.com,Soptle,216
+zinomy.com,Zinomy Technologies,217
+datatemplate.com,Data Template Infotech,218
+kodnest.com,Kodnest Technologies Pvt. Ltd.,219
+diamondore.in,Diamond Ore Consulting Pvt Ltd,220
+propellente.com,Propellente Techops Pvt. Ltd.,221
+netpaisa.com,NetPaisa,222
+clevered.com,Clevered,223
+barco.com,Barco,224
+avrpeople.org,AVr People,225
+giitian.com,GIIT Solutions,226
+buopso.com,Buopso Pvt Ltd,227
+sifs.in,Sherlock Institute of Forensic Science,228
+needl.ai,Needl.ai,229
+clarivate.com,Clarivate,230
+apptivo.com,Apptivo Inc,231
+tci.co.in,Travel Corporation India Ltd,232
+radcom.com,Radcom Ltd,233
+ptc.com,Parametric Technology Corporation,234
+innobitsystems.com,InnoBit Systems,235
+in.ey.com,Ernst & Young,236
+novo.co,Novo,237
+univoedtech.com,Univo Edtech,238
+foraysoft.com,Foray Software,239
+kalelogistics.com,Kale Logistics Solutions,240
+soprasteria.com,Sopra Steria,241
+athreyatechnologies.com,Athreya Technologies,242
+digicoders.in,DigiCoders Technologies,243
+concentrix.com,Concentrix,244
+mt.com,Mettler Toledo India,245
+wearetechtonic.com,Techtonic Enterprises,246
+namisite.com,Namisite Technologies,247
+zarainforise.com,Zara Inforise,248
+beyond360.com,GoInfinity Technologies,249
+intellipaat.com,Intellipaat,250
+techademy.com,Techademy,251
+amrita.edu,Amrita Vishwa Vidyapeetham,252
+fiserv.com,Fiserv,253
+braneenterprises.com,Brane Enterprises,254
+orixetechnologies.in,Orixe Technologies & Solutions,255
+sanstrojan.com,Sanstrojan Softech,256
+incture.com,Incture Technologies,257
+busindia.com,Radiant Info Systems,258
+baazigames.com,Baazi Games,259
+tallysolutions.com,Tally Solutions,260
+uptycs.com,Uptycs,261
+conduent.com,Conduent,262
+hdfcfund.com,HDFC Asset Management,263
+consoleflare.com,Console Flare,264
+sharajman.com,Sharajman Technologies,265
+kryossworks.com,Kryoss Softech,266
+5ginfotech.net,5G Infotech,267
+acrocorp.com,Acro Technologies,268
+pearson.com,Pearson,269
+educomp.com,Educomp Solutions,270
+bitzenith.com,Bitzenith Solutions,271
+millipixels.com,MilliPixels Interactive,272
+pairroxz.com,Pairroxz Technologies,273
+vertexplus.com,VertexPlus Technologies,274
+skillvertex.com,SkillVertex,275
+exocoetussoft.com,Exocoetus Software,276
+kpmg.com,KPMG India,277
+zircog.com,Zircog Technologies,278
+dynacons.com,Dynacons Systems & Solutions,279
+primefocus.com,Prime Focus Technologies,280
+contriver.co.in,Contriver,281
+decimal.co.in,Decimal Technologies,282
+ienergizer.com,iEnergizer IT Services,283
+thinkartha.com,Artha Data Solutions,284
+teleperformance.com,Teleperformance,285
+telusdigital.com,Telus Digital,286
+rtctek.com,Round The Clock Technologies,287
+nitrowaretechnologies.com,Nitroware Technologies,288
+novitechrd.com,NoviTech,289
+silvertouch.com,Silver Touch Technologies,290
+youngmindspublication.com,Young Minds Publication,291
+remarkskill.com,Remarkskill Education,292
+genpact.com,Genpact,293
+emudhra.com,eMudhra,294
+nobroker.in,NoBroker Technologies,295
+squareyards.com,Square Yards,296
+magicbricks.com,Magicbricks,297
+progression.com,Progression Infonet,298
+netisoft.in,Neti Software Services,299
+crayon.com,Crayon Software Experts,300
+sislinfotech.com,SISL Infotech,301
+calibrewebsol.com,Calibre Websol,302
+oxtrys.com,Oxtrys,303
+redmindtechnologies.com,RedMind Technologies,304
+bonamisoftware.com,Bonami Software,305
+anscommerce.com,ANS Commerce,306
+thepetnest.com,ThePetNest,307
+arenesslaw.com,Areness Consulting,308
+dreambuzz.in,Dream Buzz Solutions,309
+techcurve.co,Tech Curve AI and Innovations,310
+falabella.com,Falabella,311
+softeon.com,Softeon Pvt Ltd,312
+nic.in,National Informatics Centre,313
+mobiosolutions.com,Mobio Solutions,314
+byteridge.com,Byteridge Software,315
+zethic.com,Zethic Technologies,316
+continuserve.com,ContinuServe,317
+anoralabs.com,Anora Instrumentation,318
+codeclause.com,CodeClause,319
+unitedlex.com,UnitedLex,320
+savictech.com,Savic Technologies,321
+metastart.in,MetaStart,322
+ellucian.com,Ellucian,323
+softwaremadeeasy.biz,Software Made Easy,324
+whitehatjr.com,WhiteHat Jr,325
+villagetalkies.com,Village Talkies,326
+globaltrendz.com,Global Trendz,327
+mantralabsglobal.com,Mantra Labs,328
+trisuntechnologies.com,Trisun Technologies,329
+pantechelearning.com,Pantech E Learning,330
+indusnovateur.com,Indus Novateur Softech,331
+webkul.com,Webkul Software Pvt. Ltd.,332
+itview.in,ITView Software Training Institute,333
+searchmyexpert.com,Search My Expert,334
+thevisualhouse.in,The Visual House,335
+cosmic365.ai,Cosmic365AI,336
+appsquadz.com,AppSquadz Software Pvt. Ltd.,337
+axcess.io,Axcess.io,338
+sketchbrahma.com,Sketch Brahma Technologies,339
+poornam.com,Poornam Info Vision,340
+dell.com,Dell International Services,341
+codingblocks.com,Coding Blocks,342
+echoindia.in,ECHO India,343
+strawberryinfotech.com,Strawberry InfoTech,344
+rapiddigitalgrowth.com,Rapid Digital Growth,345
+vodafoneidea.com,Vodafone Idea Limited,346
+edapt.me,Edapt Education,347
+byjus.com,Think & Learn Pvt. Ltd.,348
+crebritech.com,Crebri Technologies Pvt. Ltd.,349
+excellencetechnologies.in,Excellence Technologies,350
+apparrant.com,Apparrant Technologies,351
+wisitech.com,Wisitech InfoSolutions Pvt. Ltd.,352
+aqmtechnologies.com,AQM Technologies Pvt. Ltd.,353
+unvii.com,Unvii Ltd,354
+pradan.net,Pradan,355
+stanzaliving.com,Stanza Living,356
+hemmersbach.com,Hemmersbach India Pvt. Ltd.,357
+sriyaai.com,Sriya AI,358
+ishttaa.com,ishttaa TechCraft Pvt Ltd,359
+v5global.com,V5 Global Services Pvt. Ltd.,360
+iotaacademy.in,IOTA Academy,361
+insight.com,Insight Direct India Pvt Ltd,362
+rajasoftwarelabs.com,Raja Software Labs,363
+qltc.in,Quantum Leap Trainers and Consultants,364
+liveitsolution.in,Live IT Solution,365
+bel.co.in,Bharat Electronics Limited,366
+massmutual.com,MassMutual Global Business Services,367
+nokia.com,Nokia Solutions & Networks,368
+assurecare.com,AssureCare,369
+agshealth.com,AGS Health,370
+neuronexusinnovation.xyz,NeuroNexus Innovations,371
+vchartservices.com,VChart Services,372
+ust.com,UST,373
+cnbtek.com,CnB Technologies Pvt Ltd,374
+trinepartners.in,Trine Partners,375
+orgzit.com,Orgzit,376
+finisar.com,Finisar Technology India,377
+qualigytech.com,Qualigy Tech,378
+torquemail.com,Torque Communications,379
+kenresearch.com,Kenresearch pvt ltd,380
+dataflowgroup.com,Dataflow,381
+khaptechinternational.com,Khaptech International,382
+kodecorp.com,Kodecorp software solutions,383
+truptisolutions.com,Trupti Solutions,384

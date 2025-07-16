@@ -1,0 +1,354 @@
+s_no,name
+1,Java
+2,MySQL
+3,MongoDB
+4,NodeJS
+5,Python
+6,Perl
+7,HTML
+8,React JS
+9,AJAX
+10,Ant
+11,Apache Commons
+12,Apache Tomcat
+13,Apache
+14,ASP
+15,BASIC
+16,C
+17,C#
+18,C++
+19,COBOL
+20,CORBA
+21,Corel Draw
+22,Csharp
+23,CSS
+24,Database
+25,DB2
+26,dBase
+27,DOS
+28,EJB
+29,Embedded C
+30,ForTran
+31,FoxPro
+32,Hibernate
+33,IIS
+34,JavaScript
+35,JBoss
+36,JDBC
+37,JPA
+38,JSF
+39,JSP
+40,Linux
+41,Log4j
+42,OOPS
+43,Oracle
+44,PASCAL
+45,PeopleSoft
+46,Photoshop
+47,PHP
+48,PLSQL
+49,PostgreSQL
+50,SAP
+51,Siebel
+52,Solaris
+53,Spring
+54,SQL
+55,siebel
+56,SQL Server
+57,Struts
+58,Sybase
+59,UML
+60,Unix
+61,VB.NET
+62,VBScript
+63,Visual Basic
+64,Visual C++
+65,Visual Foxpro
+66,VxWorks
+67,WebLogic
+68,WebSphere
+69,XML
+70,Ruby
+71,Go
+72,Angular
+73,Groovy
+74,Lua
+75,Bash
+76,PowerShell
+77,R
+78,VBA
+79,ECMAScript
+80,TypeScript
+81,Objective-C
+82,Scala
+83,React Native
+84,VueJS
+85,Django
+86,Flask
+87,Ruby on Rails
+88,Swift
+89,Android
+90,Dart
+91,jQuery
+92,django
+93,Apache Cordova
+94,Xamarin
+95,Flutter
+96,Ionic
+97,MSSQL
+98,Redis
+99,Apache Cassandra
+100,DynamoDB
+101,Firebase
+102,Cosmos DB
+103,Couchbase
+104,Elasticsearch
+105,BigQuery
+106,Redshift
+107,Snowflake
+108,Teradata
+109,Jenkins
+110,Spanner
+111,MariaDB
+112,.Net
+113,Springboot
+114,MERN
+115,MEAN
+116,MEVN
+117,ASP.Net
+118,Kotlin
+119,Cloud
+120,GCP
+121,Docker
+122,Kubernetes
+123,AWS
+124,Azure
+125,Shell
+126,Puppet
+127,Nagios
+128,XHTML
+129,Bootstrap
+130,UX Prototyping
+131,UX Wireframing
+132,UX User Flows
+133,UX Mockups
+134,UX Visual Design
+135,UX Design Tools
+136,UX Research
+137,UX Writing
+138,UX User Empathy
+139,JUnit
+140,ExpressJS
+141,Axios
+142,iOS
+143,Xcode
+144,Database NoSQL
+145,Datadog
+146,NewRelic
+147,AppDynamics
+148,Dynatrace
+149,Splunk
+150,AgroCD
+151,Chef
+152,containerd
+153,Vulnerability
+154,Nessus
+155,Nmap
+156,Tenable
+157,OWASP
+158,PowerBI
+159,CodeIgniter
+160,Data Structures and Algorithms
+161,APM
+162,Monitoring Tools
+163,Scripting
+164,Webpack
+165,NPM
+166,Project Management
+167,Jira
+168,BigData
+169,Prometheus
+170,Grafana
+171,Manual Testing
+172,Automation Testing
+173,Software Testing
+174,Selenium
+175,ISTQB
+176,API Testing
+177,Performance Testing
+178,Load Runner
+179,Bugzilla
+180,Robot Framework
+181,TestNG Framework
+182,Technical Writing
+183,Proof Reading
+184,Blog Writing
+185,Content Writing
+186,SEO Analysis
+187,Documentation
+188,Software Documentation
+189,User Documentation
+190,Technical Documentation
+191,Product Documentation
+192,REST API Testing
+193,Digital Marketing
+194,Blockchain
+195,Cryptography
+196,Solidworks
+197,AutoCAD
+198,DevOps
+199,Data Science
+200,Web Development
+201,Full Stack Web Development
+202,Tosca Automation
+203,RCM
+204,Claims Denial
+205,Claims Rejection
+206,US Healthcare
+207,Medical Billing
+208,CPT/HCPCS
+209,ICD10
+210,HIPAA
+211,CMS1500
+212,Payment Posting
+213,Patient Statements
+214,Laravel
+215,Excel
+216,Salesforce
+217,Deep Learning
+218,OpenCV
+219,TensorFlow
+220,Computer Vision
+221,EJS
+222,Integration Testing
+223,Functional Testing
+224,Unit Testing
+225,Terraform
+226,ReduxJS
+227,Javascript ES6
+228,NextJS
+229,Regression Testing
+230,Scrum
+231,Problem Solving
+232,HPX
+233,Product Marketing
+234,Troubleshooting
+235,Data Handling
+236,HR Operations
+237,Tally
+238,J2EE
+239,Microservices
+240,JSON
+241,Spring MVC
+242,Multithreading
+243,Design and Implementation
+244,Spring Security
+245,JWT
+246,Git
+247,Maven
+248,Servlet
+249,Agile Methodology
+250,Charge Entry
+251,Cucumber BDD
+252,Service Now
+253,MobxJS
+254,Machine Learning
+255,Data Analytics
+256,Data Visualization
+257,Data Warehousing
+258,Data Mining
+259,informatica
+260,Tableau
+261,Desktop Support
+262,Windows Troubleshooting
+263,Hardware and Networking
+264,Artificial Intelligence
+265,Natural Language Processing
+266,MediaWiki
+267,Cybersecurity
+268,Cocoa
+269,ETL
+270,SSIS
+271,SSAS
+272,OLAP
+273,AI/ML
+274,NLP
+275,LLM
+276,SAP ABAP
+277,Fiori
+278,OData
+279,Adobe Forms
+280,Defender
+281,XDR
+282,Azure AD
+283,SIEM
+284,LabVIEW
+285,TestStand
+286,JTAG
+287,NI Hardware
+288,Automation Framework
+289,Automation Framework Design
+290,SDK Development
+291,Matlab
+292,Zemax
+293,Optical Design
+294,Investment Banking
+295,Corporate Finance Analysis
+296,Financial Consultancy
+297,Portfolio Management
+298,Risk Management
+299,Human Resource Management
+300,Talent Acquisition
+301,Employee Relations
+302,Compensation and Benefits Management
+303,Organizational Development
+304,Supply Chain Management
+305,Procurement Management
+306,Logistics Management
+307,Operations Management
+308,Supply Chain Analysis
+309,Brand Management
+310,Product Management
+311,Marketing Management
+312,Digital Marketing Management
+313,Market Research Analysis
+314,Sales Management
+315,Sales Account Management
+316,Business Development Management
+317,Sales Operations Management
+318,Channel Sales Management
+319,Python for ML
+1001,Email
+1002,Communication Skills
+1003,Leadership
+1004,Customer Support
+1005,Non-Verbal Communication
+1006,Verbal Communication
+1007,HR Screening
+1101,Development Skills
+10001,Frontend Developer
+10002,UI Developer
+10003,Web Developer
+10004,UI UX Designer
+10005,Mobile App Developer
+10006,Database Developer
+10007,Database NoSQL Developer
+10008,Devops Engineer
+10009,SRE Site Reliability Engineer
+10010,Backend Java Developer
+10011,Backend NodeJS Developer
+10012,Backend DotNet Developer
+10013,Backend Developer
+10014,Java Developer
+10015,C C++ Developer
+10016,Go Developer
+10017,Cloud Native Developer
+10018,Script Developer
+10019,Monitoring Engineer
+10020,CICD Engineer
+10021,Containerized Microservices Engineer
+10022,Application Security Engineer
+10023,Data Analyst
+10024,Quality Analyst
+20001,Full Stack Web Developer
+20002,Full Stack Mobile App Developer

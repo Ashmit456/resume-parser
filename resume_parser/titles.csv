@@ -1,0 +1,447 @@
+Job Title Id,Name,Mock,Description
+1,.NET Developer,TRUE,"Mock interview designed to assess your .NET development skills, covering essential topics such as C#, ASP.NET, MVC architecture, Entity Framework, and application security best practices"
+2,Accessibility Specialist,,
+3,Agile Project Manager,TRUE,"Mock interview tailored to evaluate your Agile Project Management skills, focusing on key concepts such as Scrum methodologies, sprint planning, team facilitation, stakeholder engagement, and continuous improvement."
+4,Android Developer,TRUE,"Mock interview designed to assess your Android development skills, covering essential topics such as Android SDK, UI design, application lifecycle, data storage, and best practices for mobile development."
+5,Angular Developer,TRUE,"Mock interview tailored to evaluate your Angular development skills, focusing on key concepts such as component architecture, reactive programming, state management, routing, and best practices for building scalable applications."
+6,Ansible Automation Engineer,,
+7,Ansible Operations Engineer,,
+8,AppDynamics Engineer,,
+9,Application Developer,TRUE,"Mock interview designed to assess your application development skills, covering essential topics such as software design principles, coding standards, debugging techniques, and deployment processes across various platforms"
+10,Application Security Engineer,,
+11,Application Support Engineer,,
+12,AR Analyst,,
+13,Area Manager,,
+14,Artifactory Administrator,,
+15,Artifactory Engineer,,
+16,Artificial Intelligence AI Architect,TRUE,"Mock interview tailored to evaluate your skills as an Artificial Intelligence Architect, focusing on key concepts such as AI strategy development, system design, model selection, deployment, and integration of AI solutions within business processes."
+17,Artificial Intelligence AI Engineer,TRUE,"Mock interview designed to assess your skills as an Artificial Intelligence Engineer, focusing on key concepts such as algorithm implementation, model training, data preprocessing, deep learning frameworks, and real-world AI applications"
+18,Artificial Intelligence AI Leader,TRUE,"Mock interview tailored to evaluate your skills as an Artificial Intelligence Leader, focusing on key concepts such as AI strategy formulation, team management, project execution, ethical AI practices, and driving innovation within AI initiatives"
+19,Artificial Intelligence AI Researcher,,
+20,Artificial Intelligence AI Senior Leader,TRUE,"Mock interview designed to assess your skills as an Artificial Intelligence Senior Leader, focusing on strategic vision, AI project oversight, cross-functional collaboration, ethical considerations, and advancing organizational AI maturity."
+21,Assistant Software Engineer,,
+22,Associate Analyst,,
+23,Associate Consultant,,
+24,Associate Database Administrator,,
+25,Associate Engineer,,
+26,Associate Member of Technical Staff,,
+27,Associate Project Lead,,
+28,Associate Software Developer,,
+29,Associate Software Engineer,,
+30,Associate Test Engineer,,
+31,AWS DevOps Engineer,TRUE,"Mock interview tailored to evaluate your skills as an AWS DevOps Engineer, focusing on key concepts such as CI/CD pipelines, infrastructure as code, AWS services, automation tools, and best practices for cloud-based deployments."
+32,AWS Solutions Architect,,
+33,Azure DevOps Engineer,TRUE,"Mock interview designed to assess your skills as an Azure DevOps Engineer, focusing on key concepts such as CI/CD practices, Azure DevOps tools, infrastructure as code, release management, and cloud service integration."
+34,Backend Developer,TRUE,"Mock interview tailored to evaluate your backend development skills, focusing on key concepts such as server architecture, database management, API design, security best practices, and performance optimization"
+35,Backup Administrator,,
+36,Bamboo Engineer,,
+37,Big Data Administrator,,
+38,Big Data Architect,TRUE,"Mock interview designed to assess your skills as a Big Data Architect, focusing on key concepts such as data modeling, distributed systems, big data technologies, data pipeline design, and performance optimization."
+39,Big Data Engineer,TRUE,"Mock interview tailored to evaluate your skills as a Big Data Engineer, focusing on key concepts such as data ingestion, ETL processes, big data frameworks, data storage solutions, and performance tuning."
+40,Big Data Specialist,,
+41,Bitbucket Engineer,,
+42,Blockchain Developer,TRUE,"Mock interview designed to assess your skills as a Blockchain Developer, focusing on key concepts such as smart contracts, decentralized applications, consensus algorithms, blockchain architecture, and security practices."
+43,Build and Release Engineer,,
+44,Build Engineer,,
+45,Business Account Manager,,
+46,Business Analyst,TRUE,"Mock interview tailored to evaluate your business analysis skills, focusing on key concepts such as requirements gathering, process modeling, stakeholder engagement, data analysis, and project documentation"
+47,Business Development Executive ,,
+48,Business Development Manager,TRUE,"Mock interviews designed to assess your Business Development Manager skills covering essential areas including Business Development Strategy, Market Research, Lead Generation, Sales Prospecting, Customer Relationship Management (CRM), Negotiation Skills, Strategic Partnerships, Sales Pipeline Management, Competitive Analysis, Product Knowledge, Sales Presentations, Networking Skills, Financial Analysis, Contract Management, Customer Retention Strategies."
+49,Business Systems Analyst,,
+50,C# Developer,TRUE,"Mock interview designed to assess your C# development skills, covering essential topics such as object-oriented programming, .NET frameworks, ASP.NET, LINQ, and application design patterns"
+51,Chief Architect,,
+52,Chief Executive Officer CEO,TRUE,"Mock interview tailored to evaluate your skills as a Chief Executive Officer, focusing on key concepts such as strategic vision, organizational leadership, financial acumen, stakeholder management, and driving company growth"
+53,Chief Innovation Officer CIO,TRUE,"Mock interview designed to assess your skills as a Chief Innovation Officer, focusing on key concepts such as fostering creativity, strategic innovation planning, technology adoption, change management, and driving organizational transformation."
+54,Chief Operations Engineer,,
+55,Chief Technical Officer CTO,TRUE,"Mock interview tailored to evaluate your skills as a Chief Technical Officer, focusing on key concepts such as technology strategy, architectural oversight, team leadership, innovation management, and aligning technology with business goals"
+56,Client Specialist,,
+57,Cloud Administrator,,
+58,Cloud Architect,TRUE,"Mock interview designed to assess your skills as a Cloud Architect, focusing on key concepts such as cloud architecture design, service selection, security best practices, multi-cloud strategies, and cost optimization."
+59,Cloud Automation engineer,TRUE,"Mock interview tailored to evaluate your skills as a Cloud Automation Engineer, focusing on key concepts such as infrastructure as code, automation frameworks, CI/CD pipelines, cloud service integration, and best practices for scalable solutions."
+60,Cloud Engineer,,
+61,Cloud Network Engineer,,
+62,Cloud Security Engineer,,
+63,CNC Programmer,,
+64,Coder,,
+65,Coding Instructor,,
+66,Computer Graphics Animator,,
+67,Computer Hardware Engineer,,
+68,Computer Network Architect,,
+69,Computer Programmer,,
+70,Computer Research Scientist,,
+71,Computer Systems Analyst,,
+72,Computer Vision Engineer,,
+73,Confluence Engineer,,
+74,Consul Engineer,,
+75,Cyber Security Analyst,TRUE,"Mock interviews designed to assess your skills as a Cyber Security Analyst, focusing on key areas such as threat detection, vulnerability assessment, incident response, network security, and compliance with cybersecurity standards."
+76,Cyber Security Intern,,
+77,Data Analyst,TRUE,"Mock interview designed to assess your data analyst skills, focusing on key concepts such as data collection, statistical analysis, data visualization, querying databases, and deriving actionable insights from data"
+78,Data Architect,,
+79,Data Engineer,,
+80,Data Modeler,,
+81,Data Science Associate,,
+82,Data Scientist,TRUE,"Mock interview tailored to evaluate your data science skills, focusing on key concepts such as machine learning algorithms, data preprocessing, statistical modeling, data visualization, and predictive analytics"
+83,Database Administrator,TRUE,"Mock interview designed to assess your database administrator skills, focusing on key concepts such as database design, performance tuning, backup and recovery strategies, security management, and query optimization"
+84,Datadog Engineer,,
+85,Design Engineer,,
+86,Desktop Support Engineer,,
+87,Developer,TRUE,"Mock interview tailored to evaluate your development skills, covering essential topics such as coding best practices, software design principles, version control, debugging techniques, and collaborative development processes."
+88,Development Manager,TRUE,"Mock interview designed to assess your skills as a Development Manager, focusing on key concepts such as team leadership, project management, Agile methodologies, resource allocation, and fostering a collaborative development environment."
+89,DevOps Architect,,
+90,DevOps Engineer,TRUE,"Mock interview tailored to evaluate your DevOps engineering skills, focusing on key concepts such as CI/CD practices, automation tools, infrastructure as code, monitoring, and collaboration between development and operations teams"
+91,Devops Manager,TRUE,"Mock interview designed to assess your skills as a DevOps Manager, focusing on key concepts such as team leadership, DevOps strategy implementation, process optimization, CI/CD pipeline management, and fostering cross-functional collaboration."
+92,DevSecOps Architect,TRUE,"Mock interview tailored to evaluate your skills as a DevSecOps Architect, focusing on key concepts such as security integration in CI/CD pipelines, threat modeling, compliance practices, automation of security processes, and fostering a culture of security within development teams"
+93,DevSecOps Engineer,TRUE,"Mock interview designed to assess your skills as a DevSecOps Engineer, focusing on key concepts such as security automation, vulnerability assessment, integrating security into CI/CD pipelines, compliance management, and collaboration across development and security teams."
+94,Digital Marketing Executive,TRUE,"Mock interview tailored to evaluate your skills as a Digital Marketing Executive, focusing on key concepts such as campaign management, SEO strategies, social media marketing, analytics, and content creation"
+95,Digital Marketing Intern,,
+96,Director of Engineering,,
+97,Docker Engineer,,
+98,ELK Engineer,,
+99,Embedded Software Engineer,,
+100,Embedded Software Test Engineer,,
+101,Engineering Lead,,
+102,Engineering Manager,TRUE,"Mock interview designed to assess your skills as an Engineering Manager, focusing on key concepts such as team leadership, project planning, technical oversight, performance management, and fostering innovation within the engineering team."
+103,Engineering Project Manager,TRUE,"Mock interview tailored to evaluate your skills as an Engineering Project Manager, focusing on key concepts such as project planning, resource allocation, risk management, stakeholder communication, and ensuring project delivery on time and within budget"
+104,Entry Level Developer,,
+105,Entry Level Network Engineer,,
+106,Entry Level Programmer,,
+107,Entry Level Software Developer,,
+108,Entry Level Software Engineer,,
+109,Entry Level Web Developer,,
+110,Envoy Engineer,,
+111,Falco Engineer,,
+112,Fiber Engineer,,
+113,Field Engineer,,
+114,Finance Executive,,
+115,FluentD Engineer,,
+116,Flutter Developer,TRUE,"Mock interview designed to assess your Flutter development skills, focusing on key concepts such as widget composition, state management, responsive design, API integration, and best practices for cross-platform development."
+117,Fortify Engineer,,
+118,Frameworks Specialist,,
+119,Frontend Designer,,
+120,Frontend Developer,TRUE,"Mock interview tailored to evaluate your frontend development skills, focusing on key concepts such as HTML, CSS, JavaScript, responsive design, performance optimization, and modern frameworks."
+121,Frontend Web Developer,TRUE,"Mock interview designed to assess your frontend web development skills, focusing on key concepts such as web technologies (HTML, CSS, JavaScript), responsive design, UI frameworks, performance optimization, and accessibility best practices"
+122,Fullstack Developer,TRUE,"Mock interview tailored to evaluate your fullstack development skills, focusing on key concepts such as frontend frameworks, backend technologies, database integration, RESTful APIs, and deployment strategies."
+123,Fullstack Engineer,TRUE,"Mock interview designed to assess your fullstack engineering skills, focusing on key concepts such as frontend frameworks, backend development, database management, API design, and system architecture."
+124,Fullstack JAVA Developer,TRUE,"Mock interview tailored to evaluate your Fullstack Java development skills, focusing on key concepts such as Java frameworks (Spring), frontend technologies (React/Angular), RESTful APIs, database integration, and application deployment."
+125,Fullstack Python Developer,TRUE,"Mock interview designed to assess your Fullstack Python development skills, focusing on key concepts such as Python frameworks (Django/Flask), frontend technologies (React/Vue), RESTful APIs, database management, and deployment practices."
+126,Fullstack Web Developer,TRUE,"Mock interview tailored to evaluate your Fullstack Web Development skills, focusing on key concepts such as frontend frameworks, backend technologies, database integration, API development, and deployment strategies."
+127,Game Developer,,
+128,GCP DevOps Engineer,,
+129,Gerrit Administrator,,
+130,Gerrit Engineer,,
+131,Git Engineer,,
+132,Github Engineer,,
+133,GitLab Engineer,,
+134,Gradle Engineer,,
+135,Graduate Test Engineer,,
+136,Grafana Engineer,,
+137,Groovy Engineer,,
+138,Human Resources Business Partner,,
+139,Human Resources Operations Specialist,,
+140,Information Architect,,
+141,Information Security Analyst,,
+142,Interaction Designer,,
+143,Internet Market Research Intern,,
+144,iOS Developer,TRUE,"Mock interview designed to assess your iOS development skills, focusing on key concepts such as Swift programming, UIKit, app architecture, data persistence, and best practices for mobile app development."
+145,Istio Engineer,,
+146,IT Analyst,,
+147,IT Infra Manager,,
+148,IT Intern,,
+149,IT Manager,,
+150,JaCoCO Engineer,,
+151,Java Developer,TRUE,"Mock interview tailored to evaluate your Java development skills, focusing on key concepts such as object-oriented programming, Java frameworks (Spring), multithreading, exception handling, and application design patterns"
+152,Java Developer Intern,,
+153,JavaScript Developer,TRUE,"Mock interview designed to assess your JavaScript development skills, focusing on key concepts such as ES6 features, asynchronous programming, DOM manipulation, frameworks (React/Angular), and performance optimization"
+154,Jenkins Engineer,,
+155,Jira Administrator,,
+156,JIRA Engineer,,
+157,Junior Consultant,,
+158,Junior Developer,,
+159,Junior Front End Developer,,
+160,Junior HR Executive,,
+161,Junior IOS Developer,,
+162,Junior NodeJS Backend Developer,,
+163,Junior Site Engineer,,
+164,Junior Software Developer,,
+165,Junior Software Engineer,,
+166,Junior Web Developer,,
+167,JUnit Engineer,,
+168,KPI Analyst,,
+169,Kubernetes Administrator,,
+170,Kubernetes Engineer,TRUE,"Mock interview tailored to evaluate your Kubernetes engineering skills, focusing on key concepts such as container orchestration, pod management, service discovery, deployment strategies, and cluster security."
+171,Kubernetes Operations Engineer,,
+172,Laravel Developer,,
+173,Lead Assistant Manager,,
+174,Lead Engineer,,
+175,Learning and Development co-ordinators,,
+176,Learning and Development Manager,,
+177,Machine Learning ML Architect,TRUE,"Mock interview designed to assess your skills as a Machine Learning Architect, focusing on key concepts such as model design, architecture scalability, deployment strategies, data pipeline integration, and ensuring robust ML systems"
+178,Machine Learning ML Data Associate,TRUE,"Mock interview tailored to evaluate your skills as a Machine Learning Data Associate, focusing on key concepts such as data preprocessing, feature engineering, data validation, and collaboration in model development."
+179,Machine Learning ML Engineer,TRUE,"Mock interview designed to assess your skills as a Machine Learning Engineer, focusing on key concepts such as model training, deployment, optimization techniques, algorithm selection, and end-to-end machine learning workflows"
+180,Machine Learning ML Leader,TRUE,"Mock interview tailored to evaluate your skills as a Machine Learning Leader, focusing on key concepts such as strategy development, team management, project oversight, fostering innovation, and aligning ML initiatives with business objectives."
+181,Machine Learning ML Senior Leader,TRUE,"Mock interview designed to assess your skills as a Machine Learning Senior Leader, focusing on strategic vision, advanced project management, cross-functional collaboration, ethical AI practices, and driving organizational AI maturity"
+182,Manual Tester,,
+183,MAVEN Engineer,,
+184,Member of Technical Staff,TRUE,"Mock interview tailored to evaluate your skills as a Member of Technical Staff, focusing on key concepts such as software design, technical problem-solving, code quality, collaboration with cross-functional teams, and driving project success"
+185,MERN Stack Developer,TRUE,"Mock interview designed to assess your MERN Stack development skills, focusing on key concepts such as MongoDB, Express.js, React, Node.js, and building full-stack applications."
+186,Micro Services API Lead Designer,,
+187,Mobile App Developer,TRUE,"Mock interview tailored to evaluate your mobile app development skills, focusing on key concepts such as cross-platform frameworks, UI/UX design, app lifecycle management, API integration, and performance optimization."
+188,Mobile Application Developer,TRUE,"Mock interview designed to assess your mobile application development skills, focusing on key concepts such as platform-specific development (iOS/Android), UI design, performance optimization, API integration, and app deployment processes."
+189,Mobile Developer,,
+190,Mulesoft Developer,,
+191,Nagios Engineer,,
+192,Network and Systems Administrator,,
+193,Network Engineer,,
+194,New Grad Software Engineer,,
+195,New Relic Engineer,,
+196,Nexus Engineer,,
+197,NodeJS Backend Developer,TRUE,"Mock interview tailored to evaluate your Node.js backend development skills, focusing on key concepts such as RESTful API design, Express.js framework, database integration, authentication, and performance optimization."
+198,Nomad Engineer,,
+199,Notary Engineer,,
+200,Octopus Deploy Engineer,,
+201,Onboarding Specialist,,
+202,OpenShift Engineer,,
+203,OpenStack Engineer,,
+204,Operations Engineer,,
+205,Operations Executive,,
+206,Oracle Developer,,
+207,Oracle PLSQL Developer,TRUE,"Mock interview designed to assess your Oracle PL/SQL development skills, focusing on key concepts such as procedures, functions, triggers, performance tuning, and database design best practices."
+208,Oracle SQL Developer,,
+209,Packer Engineer,,
+210,Performance Tester,,
+211,PHP Developer,TRUE,"Mock interview tailored to evaluate your PHP development skills, focusing on key concepts such as object-oriented programming, framework usage (Laravel/Symfony), database integration, security practices, and application performance."
+212,PHP Software Developer,,
+213,Power BI Developer,,
+214,Powershell Engineer,,
+215,Principal Software Engineer,,
+216,Principle Engineer in Artificial Intelligence,,
+217,Principle Engineer in Big Data,,
+218,Principle Engineer in Data Analysis,,
+219,Principle Engineer in Machine Learning,,
+220,Process Consultant,,
+221,Procurement Manager,TRUE,"Mock interviews tailored to evaluate your Procurement Manager skills focusing on key concepts including Strategic Sourcing, Supplier Selection, Contract Management, Negotiation Skills, Procurement Processes, Cost Management, Supplier Relationship Management, Risk Management, Procurement Analytics, Sustainable Procurement, Global Sourcing, Inventory Management, Compliance and Ethics, Technology in Procurement, and Category Management."
+222,Product Manager,TRUE,"Mock interviews designed to assess your Product Manager skills covering essential areas including Product Strategy, Market Research, Product Development, Product Lifecycle Management, Competitive Analysis, Customer Insights, Pricing Strategies, Go-to-Market Strategy, Product Roadmapping, Agile Methodologies, User Experience (UX) Design, Product Launch, Performance Metrics, Cross-functional Collaboration, and Innovation Management."
+223,Product Marketing Intern,,
+224,Product Owner,,
+225,Production Support Engineer,,
+226,Programmer,,
+227,Programmer Analyst,,
+228,Project Engineer,,
+229,Project Intern,,
+230,Project Manager,TRUE,"Mock interview designed to assess your project management skills, focusing on key concepts such as project planning, risk management, stakeholder communication, team leadership, and ensuring project delivery on time and within budget."
+231,Prometheus Engineer,,
+232,Puppet Engineer,,
+233,Puppet Operations Engineer,,
+234,PyTest Engineer,,
+235,Python Developer,TRUE,"Mock interview tailored to evaluate your Python development skills, focusing on key concepts such as data structures, object-oriented programming, web frameworks (Django/Flask), API development, and best practices for coding."
+236,Python Developer Trainee,,
+237,QA Analyst,,
+238,QA Engineer,TRUE,"Mock interview designed to assess your QA engineering skills, focusing on key concepts such as test planning, test case design, automation frameworks, bug tracking, and quality assurance processes."
+239,QA Lead,TRUE,"Mock interview tailored to evaluate your skills as a QA Lead, focusing on key concepts such as test strategy development, team leadership, automation implementation, quality metrics, and stakeholder communication"
+240,QA Manager,TRUE,"Mock interview designed to assess your skills as a QA Manager, focusing on key concepts such as quality assurance strategy, team management, process improvement, risk assessment, and ensuring product quality throughout the development lifecycle."
+241,QA Specialist,,
+242,Quality Analyst,,
+243,Quality Engineer,,
+244,React Developer,TRUE,"Mock interview tailored to evaluate your React development skills, focusing on key concepts such as component architecture, state management, hooks, lifecycle methods, and best practices for building scalable applications"
+245,Research Assistant,,
+246,Robotics Engineer,,
+247,Ruby On Rails Developer,,
+248,Salesforce Developer,,
+249,Security Specialist,,
+250,Selenium Engineer,,
+251,Senior Ansible Development Engineer,,
+252,Senior Associate,,
+253,Senior Build and Release Engineer,,
+254,Senior Build Engineer,,
+255,Senior Cloud Architect,,
+256,Senior DevOps Architect,,
+257,Senior DevOps Engineer,,
+258,Senior DevSecOps Architect,,
+259,Senior DevSecOps Engineer,,
+260,Senior Engineer,,
+261,Senior Frontend Developer,TRUE,"Mock interview designed to assess your skills as a Senior Frontend Developer, focusing on key concepts such as advanced JavaScript, component design, state management, performance optimization, and architectural patterns"
+262,Senior Java Developer,TRUE,"Mock interview tailored to evaluate your skills as a Senior Java Developer, focusing on key concepts such as design patterns, performance tuning, multithreading, Spring framework expertise, and architectural best practices."
+263,Senior Java Lead,TRUE,"Mock interview designed to assess your skills as a Senior Java Lead, focusing on key concepts such as team leadership, architectural design, project management, best coding practices, and mentoring junior developers"
+264,Senior Manager IT,,
+265,Senior Medical Biller,,
+266,Senior Process Analyst,,
+267,Senior Process Associate,,
+268,Senior Process Consultant,,
+269,Senior QA Engineer,,
+270,Senior Quality Analyst,,
+271,Senior Site Reliability Engineer SRE,TRUE,"Mock interview tailored to evaluate your skills as a Senior Site Reliability Engineer, focusing on key concepts such as system reliability, incident response, infrastructure as code, monitoring solutions, and automation best practices"
+272,Senior Software Developer,,
+273,Senior Software Engineer,TRUE,"Mock interview designed to assess your skills as a Senior Software Engineer, focusing on key concepts such as software architecture, coding best practices, design patterns, system design, and leadership in technical projects"
+274,Senior Solution Engineer,,
+275,Senior SRE Architect,,
+276,Senior Technical Lead,TRUE,"Mock interview tailored to evaluate your skills as a Senior Technical Lead, focusing on key concepts such as technical architecture, team guidance, project oversight, coding standards, and fostering collaboration among cross-functional teams"
+277,Senior Test Engineer,,
+278,SEO Analyst,,
+279,Sharepoint Developer,,
+280,Site Reliability Engineer,TRUE,"Mock interview designed to assess your Site Reliability Engineer skills, focusing on key concepts such as system reliability, incident management, automation, monitoring, and infrastructure optimization"
+281,Software Analyst,,
+282,Software Architect,TRUE,"Mock interview tailored to evaluate your skills as a Software Architect, focusing on key concepts such as architectural design patterns, system scalability, technology stack selection, and ensuring alignment with business goals"
+283,Software Developer,TRUE,"Mock interview designed to assess your software development skills, focusing on key concepts such as coding best practices, software design principles, version control, debugging techniques, and collaboration in development teams."
+284,Software Developer Intern,,
+285,Software Engineer,TRUE,"Mock interview tailored to evaluate your software engineering skills, focusing on key concepts such as algorithms, data structures, system design, coding best practices, and problem-solving techniques"
+286,Software Engineer Intern,,
+287,Software Engineer Trainee,,
+288,Software Test Engineer,,
+289,SonarQube Engineer,,
+290,Splunk Engineer,,
+291,Splunk Enterprise Security Engineer,,
+292,SQL Developer,TRUE,"Mock interview designed to assess your SQL development skills, focusing on key concepts such as query optimization, database design, stored procedures, data manipulation, and performance tuning"
+293,SRE Architect,TRUE,"Mock interview tailored to evaluate your skills as an SRE Architect, focusing on key concepts such as system design for reliability, incident management strategies, scalability solutions, automation practices, and cross-team collaboration"
+294,SRE Engineer,TRUE,"Mock interview designed to assess your SRE Engineer skills, focusing on key concepts such as reliability engineering, monitoring and alerting, incident response, automation, and infrastructure management"
+295,Staff Engineer,,
+296,Staff Software Engineer,,
+297,Support Escalation Engineer,,
+298,System Administrator,,
+299,System Engineer,,
+300,System Technician,,
+301,Talent Acquisition Consultant,,
+302,Team Lead,TRUE,"Mock interview tailored to evaluate your skills as a Team Lead, focusing on key concepts such as team management, project oversight, effective communication, conflict resolution, and fostering collaboration within the team"
+303,Team Leader,TRUE,"Mock interview designed to assess your skills as a Team Leader, focusing on key concepts such as team dynamics, project management, strategic decision-making, motivation techniques, and effective communication"
+304,TeamCity Engineer,,
+305,Tech Sales Engineer,,
+306,Technical Account Manager,,
+307,Technical Architect,TRUE,"Mock interview tailored to evaluate your skills as a Technical Architect, focusing on key concepts such as system architecture design, technology stack selection, integration strategies, scalability solutions, and ensuring alignment with business objectives"
+308,Technical Content Writer,,
+309,Technical Lead,TRUE,"Mock interview designed to assess your skills as a Technical Lead, focusing on key concepts such as project oversight, technical guidance, code quality, team collaboration, and implementation of best practices"
+310,Technical Manager,TRUE,"Mock interview tailored to evaluate your skills as a Technical Manager, focusing on key concepts such as team leadership, project management, technical strategy, resource allocation, and fostering innovation within the team"
+311,Technical Operator,,
+312,Technical Project Manager,TRUE,"Mock interview designed to assess your skills as a Technical Project Manager, focusing on key concepts such as project planning, technical oversight, stakeholder communication, risk management, and ensuring timely project delivery."
+313,Technical Support Engineer,,
+314,Terraform Engineer,,
+315,TFS Engineer,,
+316,Trainee,,
+317,Trainee GIS Engineer,,
+318,Twistkock Engineer,,
+319,UDeploy Engineer,,
+320,UI Designer,,
+321,UI Developer,TRUE,"Mock interview tailored to evaluate your UI development skills, focusing on key concepts such as HTML/CSS, JavaScript frameworks, responsive design, user experience principles, and cross-browser compatibility."
+322,UI Engineer,,
+323,Unity Developer,,
+324,UX Designer,TRUE,"Mock interview designed to assess your UX design skills, focusing on key concepts such as user research, wireframing, prototyping, usability testing, and creating user-centered design solutions."
+325,Vault Engineer,,
+326,VP of Engineering,TRUE,"Mock interview tailored to evaluate your skills as a VP of Engineering, focusing on key concepts such as engineering strategy, team leadership, technical innovation, project alignment with business goals, and fostering a culture of collaboration and excellence"
+327,VP of Marketing,,
+328,VP of Product Management,TRUE,"Mock interview designed to assess your skills as a VP of Product Management, focusing on key concepts such as product strategy, market analysis, cross-functional team leadership, roadmap development, and aligning product vision with business objectives"
+329,Web Designer,,
+330,Web Developer,TRUE,"Mock interview tailored to evaluate your web development skills, focusing on key concepts such as HTML, CSS, JavaScript, responsive design, and best practices for building user-friendly web applications."
+331,Web Developer Intern,,
+332,WordPress Developer,,
+333,XL Deploy Engineer,,
+334,Yield and Integration Engineer,,
+335,Youtube Strategist Intern,,
+336,Zabbix Engineer,,
+337,Software Development Engineer in Test SDET,,
+338,Software Development Engineer SDE-1,TRUE,"Mock interview designed to assess your skills as an SDE-1, focusing on key concepts such as data structures, algorithms, coding best practices, problem-solving techniques, and basic system design."
+339,Software Development Engineer SDE-2,TRUE,"Mock interview tailored to evaluate your skills as an SDE-2, focusing on key concepts such as advanced data structures, system design, architectural patterns, coding best practices, and mentorship of junior developers"
+340,Software Development Engineer SDE-3,TRUE,"Mock interview designed to assess your skills as an SDE-3, focusing on key concepts such as complex system design, architectural leadership, code optimization, mentoring teams, and driving technical initiatives"
+341,Programmer Trainee,,
+342,Intern,,
+343,Senior System Engineer,,
+344,Junior Engineer,,
+345,Backend Developer Intern,,
+346,Senior Data Scientist,,
+347,Service Desk Agent,,
+348,Salesforce Analyst,,
+349,Application Engineer,,
+350,Technical Product Manager TPM-1,TRUE,"Mock interview designed to assess your skills as a TPM-1, focusing on key concepts such as project planning, cross-functional collaboration, technical understanding, risk management, and effective communication with stakeholders"
+351,Technical Product Manager TPM-2,TRUE,"Mock interview tailored to evaluate your skills as a TPM-2, focusing on key concepts such as advanced project management, strategic planning, technical architecture understanding, team leadership, and driving project success across multiple teams"
+352,Technical Product Manager TPM-3,TRUE,"Mock interview designed to assess your skills as a TPM-3, focusing on key concepts such as complex project coordination, strategic alignment, stakeholder engagement, technical leadership, and influencing cross-functional initiatives"
+353,Human Resource HR Administrator,TRUE,"Mock interviews tailored to evaluate your skills as an HR Administrator, focusing on key concepts such as employee relations, HR policy implementation, recruitment processes, payroll management, and maintaining compliance with labor laws."
+354,SOC Analyst,TRUE,"Mock interviews designed to assess your skills as a SOC Analyst, focusing on key concepts such as threat detection, incident response, security monitoring tools, vulnerability assessment, and cybersecurity best practices."
+355,Motion Graphic Designer,TRUE,"Mock interviews designed to assess your skills as a Motion Graphic Designer, focusing on key concepts such as animation techniques, video editing, visual storytelling, graphic design principles, and proficiency with design software tools."
+356,Trainer,,
+357,Technical Lead SRE,,
+358,Associate,,
+359,IIS Admin,,
+360,Executive,,
+361,Project Associate,,
+362,Data Centre Operations Engineer,,
+363,Technical Analyst,,
+364,Associate Customer Support Engineer,,
+365,Senior Research Analyst,,
+366,Head Of Marketing,,
+367,Marketing Manager,TRUE,"Mock interviews tailored to evaluate your Marketing Manager skills focusing on key concepts including Marketing Strategy, Market Research, Consumer Behavior, Digital Marketing, Brand Management, Product Marketing, Advertising, Public Relations, Social Media Marketing, Content Marketing, Marketing Analytics, Campaign Management, Customer Relationship Management (CRM), Pricing Strategies, Competitive Analysis."
+368,Graduate Engineer Trainee,,
+369,IT Recruiter,,
+370,HR Recruiter,,
+371,Estimation Engineer,,
+372,Office Assistant,,
+373,Technical Support Specialist,,
+374,Process Executive,,
+375,QA Analyst Intern,,
+376,Quality Analyst Level 2,,
+377,Relationship Manager,,
+378,Graphic Designer,,
+379,IT Operations Associate,,
+380,IT Executive,,
+381,UI UX Designer,,
+382,Senior Project Engineer,,
+383,"Web Application Developer",,
+384,Machine Learning ML Intern,,
+385,Python Intern,,
+386,QA Test Engineer,,
+387,Cloud Support Engineer,,
+388,Data Processing Associate,,
+389,ETL Developer,,
+390,Big Data Intern,,
+391,"Technical Trainer",,
+392,Data Engineer Intern,,
+393,Unit Manager,,
+394,Assistant Application Developer,,
+395,Junior Java Developer,,
+396,Linux Engineer,,
+397,Project Delivery Manager,,
+398,Test Analyst,,
+399,DevOps Intern,,
+400,Senior .NET Developer,,
+401,Junior Fullstack Developer,,
+402,Senior Software Test Engineer,,
+403,Lead Automation Engineer,,
+404,Product Analyst,,
+405,ETL Tester,,
+406,BI Team Lead,,
+407,Junior Test Analyst,,
+408,Digital Forensic Investigator,,
+409,Defensive Security,,
+410,Co-Founder,,
+411,Investment Banking Analyst,TRUE,"Mock interviews designed to assess your Investment Banking Analyst skills, focusing on key concepts such as financial modeling, valuation techniques, M&A, IPOs, capital markets, financial statement analysis, market analysis, managing financial risks, regulatory compliance and industry-specific concepts."
+412,Corporate Finance Analyst,TRUE,"Mock interviews designed to assess your Corporate Finance Analyst skills covering essential topics such as Financial Analysis and Reporting, Valuation Techniques, Capital Budgeting, Financial Modeling, Risk Management, Corporate Finance Strategy, Investment Analysis, and Ethics and Professional Standards."
+413,Financial Consultant,TRUE,"Mock interviews tailored to evaluate your Financial Consultant skills covering critical areas including Financial Planning, Investment Strategies, Retirement Planning, Tax Planning, Risk Management, Estate Planning, Insurance Planning, Budgeting and Forecasting, Client Relationship Management, Regulatory Compliance, and Ethics and Professional Standards."
+414,Portfolio Manager,TRUE,"Mock interviews tailored to evaluate your Portfolio Manager skills covering key areas including Asset Allocation, Risk Management, Performance Evaluation, Investment Strategies, Portfolio Construction, Market Analysis, Financial Modeling, Client Relationship Management, Regulatory Compliance, and Ethics and Professional Standards"
+415,Risk Manager,TRUE,"Mock interviews tailored to evaluate your Risk Manager skills covering essential areas including Risk Identification, Risk Assessment, Risk Mitigation Strategies, Market Risk, Credit Risk, Liquidity Risk, Operational Risk, Value at Risk (VaR), Stress Testing, Scenario Analysis, Diversification, Hedging Techniques, Regulatory Compliance, Risk Monitoring and Review, and Ethics and Professional Standards."
+416,Human Resource HR Manager,TRUE,"Mock interviews designed to assess your HR Manager skills covering key areas including Employee Relations, Recruitment and Selection, Onboarding, Training and Development, Performance Management, Compensation and Benefits, HR Compliance, Labor Laws, Diversity and Inclusion, HR Metrics and Analytics, Conflict Resolution, Organizational Development, Employee Engagement, Talent Management, and Health and Safety."
+417,Talent Acquisition Specialist,TRUE,"Mock interviews designed to assess your Talent Acquisition skills covering essential areas including Sourcing Strategies, Candidate Screening, Interview Techniques, Recruitment Metrics, Employer Branding, Candidate Experience, Diversity and Inclusion, Talent Pipeline Management, Job Market Analysis, Onboarding Processes, Recruitment Technologies, Compliance and Legal Considerations, Negotiation Skills, Workforce Planning, and Talent Acquisition Strategies."
+418,Employee Relations Specialist,TRUE,"Mock interviews designed to assess your Employee Relations skills covering key areas including Conflict Resolution, Employee Engagement, Performance Management, Labor Laws, HR Compliance, Workplace Investigations, Dispute Mediation, Employee Feedback, Grievance Handling, Diversity and Inclusion, Organizational Culture, Communication Skills, Employee Retention, Disciplinary Procedures, and Employee Well-being."
+419,Compensation and Benefits Manager,TRUE,"Mock interviews designed to assess your Compensation and Benefits Manager skills, focusing on key concepts such as Compensation Strategy, Salary Benchmarking, Job Evaluation, Pay Structures, Incentive Programs, Benefits Administration, Employee Benefits Design, Regulatory Compliance, Compensation Analytics, Total Rewards Strategy, Equity Compensation, Executive Compensation, Compensation Policies, Market Trends, and Employee Retention Strategies."
+420,Organizational Development Specialist,TRUE,"Mock interviews designed to assess your Organizational Development Specialist skills covering key areas including Change Management, Organizational Culture, Leadership Development, Talent Management, Employee Engagement, Performance Improvement, Strategic Planning, Team Dynamics, Organizational Design, Learning and Development, Succession Planning, Conflict Resolution, HR Analytics, Diversity and Inclusion, and Innovation Management."
+421,Supply Chain Manager,TRUE,"Mock interviews designed to assess your Supply Chain Manager skills covering essential areas including Supply Chain Strategy, Demand Planning, Inventory Management, Procurement and Sourcing, Logistics and Distribution, Supplier Relationship Management, Supply Chain Analytics, Risk Management, Lean and Six Sigma, Transportation Management, Warehouse Management, Global Supply Chain Management, Sustainability in Supply Chain, Technology in Supply Chain, and Cost Management."
+221,Procurement Manager,TRUE,"Mock interviews tailored to evaluate your Procurement Manager skills focusing on key concepts including Strategic Sourcing, Supplier Selection, Contract Management, Negotiation Skills, Procurement Processes, Cost Management, Supplier Relationship Management, Risk Management, Procurement Analytics, Sustainable Procurement, Global Sourcing, Inventory Management, Compliance and Ethics, Technology in Procurement, and Category Management."
+422,Logistics Manager,TRUE,"Mock interviews tailored to evaluate your Logistics Manager skills covering essential areas including Logistics Strategy, Transportation Management, Warehouse Management, Inventory Control, Distribution Planning, Supply Chain Optimization, Freight Management, Logistics Technology, Global Logistics, Risk Management, Cost Management, Sustainability in Logistics, Supplier Coordination, Logistics Analytics, and Compliance and Regulations."
+423,Operations Manager,TRUE,"Mock interviews tailored to evaluate your Operations Manager skills covering key areas including Operations Strategy, Process Improvement, Supply Chain Management, Inventory Management, Quality Control, Production Planning, Lean Management, Six Sigma, Capacity Planning, Logistics and Distribution, Cost Management, Project Management, Technology in Operations, Risk Management, and Sustainability in Operations."
+424,Supply Chain Analyst,TRUE,"Mock interviews designed to assess your Supply Chain Analyst skills, focusing on key concepts such as Data Analysis, Supply Chain Optimization, Inventory Management, Demand Forecasting, Logistics and Distribution, Supplier Relationship Management, Procurement Analysis, Cost Analysis, Supply Chain Technology, Risk Management, Performance Metrics, Process Improvement, Market Analysis, Sustainability in Supply Chain, and Compliance and Regulations."
+425,Brand Manager,TRUE,"Mock interviews designed to assess your Brand Manager skills covering key areas including Brand Strategy, Market Research, Consumer Behavior, Brand Positioning, Brand Equity, Marketing Communications, Digital Marketing, Product Development, Advertising, Public Relations, Brand Management, Competitive Analysis, Brand Loyalty, Social Media Marketing, and Brand Metrics and Analytics."
+222,Product Manager,TRUE,"Mock interviews designed to assess your Product Manager skills covering essential areas including Product Strategy, Market Research, Product Development, Product Lifecycle Management, Competitive Analysis, Customer Insights, Pricing Strategies, Go-to-Market Strategy, Product Roadmapping, Agile Methodologies, User Experience (UX) Design, Product Launch, Performance Metrics, Cross-functional Collaboration, and Innovation Management."
+367,Marketing Manager,TRUE,"Mock interviews tailored to evaluate your Marketing Manager skills focusing on key concepts including Marketing Strategy, Market Research, Consumer Behavior, Digital Marketing, Brand Management, Product Marketing, Advertising, Public Relations, Social Media Marketing, Content Marketing, Marketing Analytics, Campaign Management, Customer Relationship Management (CRM), Pricing Strategies, Competitive Analysis."
+426,Digital Marketing Manager,TRUE,"Mock interviews tailored to evaluate your Digital Marketing Manager skills covering essential areas including Digital Marketing Strategy, Search Engine Optimization (SEO), Search Engine Marketing (SEM), Social Media Marketing, Content Marketing, Email Marketing, Web Analytics, Online Advertising, Mobile Marketing, Influencer Marketing, E-commerce Marketing, Conversion Rate Optimization (CRO), Marketing Automation, Digital Branding, Data-Driven Marketing."
+427,Market Research Analyst,TRUE,"Mock interviews tailored to evaluate your Market Research Analyst skills covering key areas including Market Research Methodologies, Data Collection Techniques, Survey Design, Sampling Methods, Data Analysis, Statistical Tools and Software, Consumer Behavior Analysis, Competitive Analysis, Market Segmentation, Trend Analysis, Qualitative Research, Quantitative Research, Report Writing, Presentation Skills, Ethical Considerations in Market Research."
+428,Sales Manager,TRUE,"Mock interviews designed to assess your Sales Manager skills, focusing on key concepts such as Sales Strategy, Sales Planning, Sales Forecasting, Customer Relationship Management (CRM), Sales Team Management, Sales Training and Development, Sales Performance Metrics, Negotiation Skills, Lead Generation, Sales Pipeline Management, Key Account Management, Territory Management, Sales Technology and Tools, Customer Retention Strategies, Competitive Analysis."
+429,Sales Account Executive,TRUE,"Mock interviews designed to assess your Sales Account Executive skills covering key areas including Sales Prospecting, Lead Qualification, Customer Relationship Management (CRM), Sales Presentations, Product Knowledge, Negotiation Skills, Sales Pipeline Management, Customer Needs Analysis, Closing Techniques, Post-Sales Support, Account Management, Communication Skills, Time Management, Sales Reporting, Competitive Analysis."
+48,Business Development Manager,TRUE,"Mock interviews designed to assess your Business Development Manager skills covering essential areas including Business Development Strategy, Market Research, Lead Generation, Sales Prospecting, Customer Relationship Management (CRM), Negotiation Skills, Strategic Partnerships, Sales Pipeline Management, Competitive Analysis, Product Knowledge, Sales Presentations, Networking Skills, Financial Analysis, Contract Management, Customer Retention Strategies."
+430,Sales Operations Manager,TRUE,"Mock interviews tailored to evaluate your Sales Operations Manager skills focusing on key concepts including Sales Strategy, Sales Process Optimization, Sales Forecasting, Sales Analytics, Customer Relationship Management (CRM), Sales Technology and Tools, Performance Metrics, Sales Training and Development, Territory Management, Pipeline Management, Inventory Management, Order Processing, Budgeting and Financial Planning, Cross-Functional Collaboration, Compliance and Regulatory Issues."
+431,Channel Sales Manager,TRUE,"Mock interviews tailored to evaluate your Channel Sales Manager skills covering essential areas including Channel Sales Strategy, Partner Relationship Management, Channel Marketing, Sales Forecasting, Sales Analytics, Channel Conflict Management, Incentive Programs, Distribution Management, Sales Training and Development, Performance Metrics, Contract Negotiation, Product Knowledge, Market Segmentation, Competitive Analysis, Customer Relationship Management (CRM)."
+432,Technical Analyst,,
+433,Senior Web Developer,,
+434,Software Application Support Engineer,,
+435,Product Support Analyst,,
+436,UI/UX Specialist - SME,,
+437,Infrastructure Engineer,,
+438,Senior UI Engineer,,
+439,Support Engineer L1,,
+440,Data Scientist Intern,,
+441,Technical Associate,,
+442,Assistant Software Developer,,
