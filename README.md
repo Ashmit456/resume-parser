@@ -6,9 +6,6 @@ Resume Parser is a tool designed to automatically extract relevant information f
 
 - **Automated Extraction**: Parse resumes in various formats (PDF, DOCX, TXT) to pull out useful candidate information.
 - **Structured Output**: Outputs data in a structured format (JSON, CSV, etc.) for easy integration with other systems.
-- **Customizable Fields**: Configure which fields to extract based on your hiring needs.
-- **Multi-language Support**: Handles resumes written in different languages.
-- **Easy Integration**: Can be integrated into existing HR workflows or ATS platforms.
 - **Vector Database Embeddings**: Store and search resume data using vector embeddings for semantic retrieval.
 
 ## Installation
